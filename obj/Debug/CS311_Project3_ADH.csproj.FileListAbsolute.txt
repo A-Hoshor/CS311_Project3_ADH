@@ -1,0 +1,10 @@
+Q:\VisualStudio\CS311_Project3_ADH\bin\Debug\CS311_Project3_ADH.exe.config
+Q:\VisualStudio\CS311_Project3_ADH\bin\Debug\CS311_Project3_ADH.exe
+Q:\VisualStudio\CS311_Project3_ADH\bin\Debug\CS311_Project3_ADH.pdb
+Q:\VisualStudio\CS311_Project3_ADH\obj\Debug\CS311_Project3_ADH.csproj.AssemblyReference.cache
+Q:\VisualStudio\CS311_Project3_ADH\obj\Debug\CS311_Project3_ADH.Form1.resources
+Q:\VisualStudio\CS311_Project3_ADH\obj\Debug\CS311_Project3_ADH.Properties.Resources.resources
+Q:\VisualStudio\CS311_Project3_ADH\obj\Debug\CS311_Project3_ADH.csproj.GenerateResource.cache
+Q:\VisualStudio\CS311_Project3_ADH\obj\Debug\CS311_Project3_ADH.csproj.CoreCompileInputs.cache
+Q:\VisualStudio\CS311_Project3_ADH\obj\Debug\CS311_Project3_ADH.exe
+Q:\VisualStudio\CS311_Project3_ADH\obj\Debug\CS311_Project3_ADH.pdb
